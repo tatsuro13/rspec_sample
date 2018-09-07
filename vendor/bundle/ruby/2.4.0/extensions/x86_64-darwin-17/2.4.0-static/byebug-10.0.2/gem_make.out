@@ -1,0 +1,19 @@
+current directory: /Users/osuka_t/試験的ななにか/rspec-sample/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.2/ext/byebug
+/Users/osuka_t/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20180906-78082-w96can.rb extconf.rb
+creating Makefile
+
+current directory: /Users/osuka_t/試験的ななにか/rspec-sample/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/osuka_t/試験的ななにか/rspec-sample/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/osuka_t/試験的ななにか/rspec-sample/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20180906-78082-13okxxd/byebug
